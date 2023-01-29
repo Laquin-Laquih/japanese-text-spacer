@@ -1,0 +1,1 @@
+py tiny.py %1
